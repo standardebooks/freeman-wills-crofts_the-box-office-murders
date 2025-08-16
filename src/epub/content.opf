@@ -44,14 +44,17 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">5</meta>
+		<dc:description id="description">The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A young woman’s body is hauled from the English Channel by a passing yacht, which matches the description given in a circular from Inspector French of Scotland Yard. Just the day before he’d been sitting with her, listening to her story about the “suicide” of her friend. Thurza Darke had been ensnared in a scam perpetrated by a man with a purple sickle-shaped birthmark on his wrist, and had realised that this was the same man her friend had talked about shortly before her death. With two potential linked murders on his hands, Inspector French is determined to stop any further bloodshed.&lt;/p&gt;
+			&lt;p&gt;The fifth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; long-running &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; series, this novel sees French more stumped than usual with false leads taking him away from the scent, but it’s difficult to keep the dogged detective confused for long.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75488</dc:source>
 		<dc:source>https://archive.org/details/bwb_KU-296-936/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Box_Office_Murders</meta>

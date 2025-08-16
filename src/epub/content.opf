@@ -30,6 +30,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Box Office Murders</dc:title>
 		<meta property="file-as" refines="#title">Box Office Murders, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The Purple Sickle Murders</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Murder -- Investigation -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Police -- Great Britain -- Fiction</dc:subject>

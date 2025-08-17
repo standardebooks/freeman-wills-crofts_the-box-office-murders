@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-08-17T23:11:05Z</dc:date>
+		<meta property="dcterms:modified">2025-08-17T23:11:05Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,14 +50,14 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<dc:description id="description">The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A young woman’s body is hauled from the English Channel by a passing yacht, which matches the description given in a circular from Inspector French of Scotland Yard. Just the day before he’d been sitting with her, listening to her story about the “suicide” of her friend. Thurza Darke had been ensnared in a scam perpetrated by a man with a purple sickle-shaped birthmark on his wrist, and had realised that this was the same man her friend had talked about shortly before her death. With two potential linked murders on his hands, Inspector French is determined to stop any further bloodshed.&lt;/p&gt;
-			&lt;p&gt;The fifth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; long-running &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; series, this novel sees French more stumped than usual with false leads taking him away from the scent, but it’s difficult to keep the dogged detective confused for long.&lt;/p&gt;
+			&lt;p&gt;A young woman’s body is hauled out of the English Channel by a passing yacht, and it matches the description of a woman named Thurza Darke given in a circular from &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; of Scotland Yard. Just the day before he’d been sitting alongside Thurza, listening to her story about the “suicide” of her friend. Thurza had been ensnared in a scam perpetrated by a man with a purple sickle-shaped birthmark on his wrist, and had realized that this was the same man her friend had mentioned shortly before her death. With two potentially linked murders on his hands, Inspector French is determined to stop any further bloodshed.&lt;/p&gt;
+			&lt;p&gt;The fifth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; long-running Inspector French series, this novel sees French more stumped than usual with false leads taking him away from the scent, but it’s difficult to keep the dogged detective confused for long.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75488</dc:source>
 		<dc:source>https://archive.org/details/bwb_KU-296-936/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70332</meta>
+		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Box_Office_Murders</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/freeman-wills-crofts_the-box-office-murders</meta>
 		<dc:creator id="author">Freeman Wills Crofts</dc:creator>
@@ -83,6 +83,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

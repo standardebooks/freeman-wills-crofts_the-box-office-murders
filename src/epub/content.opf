@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders</dc:identifier>
 		<dc:date>2025-08-17T23:11:05Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A young woman’s body is hauled out of the English Channel by a passing yacht, and it matches the description of a woman named Thurza Darke given in a circular from &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; of Scotland Yard. Just the day before he’d been sitting alongside Thurza, listening to her story about the “suicide” of her friend. Thurza had been ensnared in a scam perpetrated by a man with a purple sickle-shaped birthmark on his wrist, and had realized that this was the same man her friend had mentioned shortly before her death. With two potentially linked murders on his hands, Inspector French is determined to stop any further bloodshed.&lt;/p&gt;
 			&lt;p&gt;The fifth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; long-running Inspector French series, this novel sees French more stumped than usual with false leads taking him away from the scent, but it’s difficult to keep the dogged detective confused for long.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75488</dc:source>
 		<dc:source>https://archive.org/details/bwb_KU-296-936</dc:source>

@@ -49,7 +49,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Inspector French</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:abstract>The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.</dc:abstract>
+		<meta property="schema:abstract">The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.</meta>
 		<dc:description>
 			&lt;p&gt;A young woman’s body is hauled out of the English Channel by a passing yacht, and it matches the description of a woman named Thurza Darke given in a circular from &lt;a href="https://standardebooks.org/collections/inspector-french"&gt;Inspector French&lt;/a&gt; of Scotland Yard. Just the day before he’d been sitting alongside Thurza, listening to her story about the “suicide” of her friend. Thurza had been ensnared in a scam perpetrated by a man with a purple sickle-shaped birthmark on his wrist, and had realized that this was the same man her friend had mentioned shortly before her death. With two potentially linked murders on his hands, Inspector French is determined to stop any further bloodshed.&lt;/p&gt;
 			&lt;p&gt;The fifth in &lt;a href="https://standardebooks.org/ebooks/freeman-wills-crofts"&gt;Freeman Wills Crofts’&lt;/a&gt; long-running Inspector French series, this novel sees French more stumped than usual with false leads taking him away from the scent, but it’s difficult to keep the dogged detective confused for long.&lt;/p&gt;
